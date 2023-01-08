@@ -6,17 +6,17 @@
 ## Technologies used:
 
 ### Frontend:
-  Application: React.js, TypeScript
-  - Component library: Material UI
-  - HTTP client: Axios
-  - Routing: react-router-dom
-  - CSS framework: Tailwind
+    - Application: React.js, TypeScript
+      - Component library: Material UI
+      - HTTP client: Axios
+      - Routing: react-router-dom
+      - CSS framework: Tailwind
     
 ### Backend:
-  API: .NET 6
-  - Validation: FluentValidation
-  - Mapping: AutoMapper
-  - Database: Sqlite
+    - API: .NET 6
+      - Validation: FluentValidation
+      - Mapping: AutoMapper
+      - Database: Sqlite
   - ...
     
 ---
