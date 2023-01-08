@@ -14,7 +14,7 @@
     
 ### Backend:
   API: .NET 6
-    - Validation: FluentValidation
+    -  Validation: FluentValidation
     - Mapping: AutoMapper
     - Database: Sqlite
     ...
