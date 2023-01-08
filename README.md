@@ -1,17 +1,18 @@
 ﻿# smartbooks-web-application
 
-Architecture of the backend: Onion 
+##Backend architecture: 
+  - Onion architecture
 
-Technologies I used:
+##Technologies used:
 
-Frontend:
+###Frontend:
   Application: React.js, TypeScript
     - Component library: Material UI
     - HTTP client: Axios
     - Routing: react-router-dom
     - CSS framework: Tailwind
     
-Backend:
+###Backend:
   API: .NET 6
     - Validation: FluentValidation
     - Mapping: AutoMapper
@@ -20,7 +21,7 @@ Backend:
     
 ---
 
-Things that could be better implemented:
+####Things that could be better implemented:
 - api endpoints may be little bit confusing
 - validation of existing courses is missing + some of the validations are insufficient
 - In the frontend layer, there are a lot of errors because of bad TypeScript configuration
