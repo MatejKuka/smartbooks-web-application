@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90900e35-9f2b-4bf5-9775-c84f1cfb32be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JT6R3zzZF7wQqwHRxtWjGbiS5t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\src\components\course-components" />
+      <recent name="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\src\components\course-components\course-table-components" />
+      <recent name="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\src\assets" />
+      <recent name="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\src\components\UI\navigation-panel" />
+      <recent name="C:\Users\Dell\Documents\OTHERS\dotnet-smartbooks\frontend\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90900e35-9f2b-4bf5-9775-c84f1cfb32be" name="Changes" comment="" />
+      <created>1672089720479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672089720479</updated>
+      <workItem from="1672089725246" duration="1219000" />
+      <workItem from="1672158990970" duration="568000" />
+      <workItem from="1672169007509" duration="2507000" />
+      <workItem from="1672245466044" duration="2641000" />
+      <workItem from="1672262489260" duration="3270000" />
+      <workItem from="1672323555204" duration="3401000" />
+      <workItem from="1672351726875" duration="5325000" />
+      <workItem from="1672428681819" duration="2762000" />
+      <workItem from="1672492972737" duration="1675000" />
+      <workItem from="1672695089197" duration="1694000" />
+      <workItem from="1672772975418" duration="350000" />
+      <workItem from="1672777075027" duration="4500000" />
+      <workItem from="1673112780141" duration="3602000" />
+      <workItem from="1673138302705" duration="262000" />
+      <workItem from="1673173125266" duration="239000" />
+      <workItem from="1673173905157" duration="1142000" />
+      <workItem from="1673175769421" duration="9461000" />
+      <workItem from="1673190520457" duration="18470000" />
+    </task>
+    <task id="LOCAL-00001" summary="ycy">
+      <created>1673138363983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673138363983</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ycydfd">
+      <created>1673138475025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673138475025</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix folder structure">
+      <created>1673175833337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673175833337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fsdfsd">
+      <created>1673184859525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673184859525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added React.memo to all relevant components">
+      <created>1673185297580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673185297580</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sdfsd">
+      <created>1673196399617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673196399617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="implemented search feature">
+      <created>1673205107926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673205107926</updated>
+    </task>
+    <task id="LOCAL-00008" summary="before refactoring and cleaning code">
+      <created>1673209140052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673209140052</updated>
+    </task>
+    <task id="LOCAL-00009" summary="after refactoring n.1">
+      <created>1673210636312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673210636312</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ycy" />
+    <MESSAGE value="ycydfd" />
+    <MESSAGE value="fix folder structure" />
+    <MESSAGE value="fsdfsd" />
+    <MESSAGE value="added React.memo to all relevant components" />
+    <MESSAGE value="sdfsd" />
+    <MESSAGE value="implemented search feature" />
+    <MESSAGE value="before refactoring and cleaning code" />
+    <MESSAGE value="after refactoring n.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="after refactoring n.1" />
+  </component>
+</project>
