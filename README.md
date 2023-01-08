@@ -21,8 +21,8 @@
     
 ---
 
-#### Things that could be better implemented:
+#### Things that could be implemented better:
 - api endpoints may be little bit confusing
 - validation of existing courses is missing + some of the validations are insufficient
 - In the frontend layer, there are a lot of errors because of bad TypeScript configuration
-- Routing is poorly implemented in order to reflect the current states of the app
+- Routing is poorly implemented
