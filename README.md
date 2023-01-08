@@ -7,14 +7,14 @@
 
 ### Frontend:
   Application: React.js, TypeScript
-    - Component library: Material UI
+  - Component library: Material UI
     - HTTP client: Axios
     - Routing: react-router-dom
     - CSS framework: Tailwind
     
 ### Backend:
   API: .NET 6
-    -  Validation: FluentValidation
+    - Validation: FluentValidation
     - Mapping: AutoMapper
     - Database: Sqlite
     ...
