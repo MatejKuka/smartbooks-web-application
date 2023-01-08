@@ -17,7 +17,7 @@
   - Validation: FluentValidation
   - Mapping: AutoMapper
   - Database: Sqlite
-    ...
+  - ...
     
 ---
 
