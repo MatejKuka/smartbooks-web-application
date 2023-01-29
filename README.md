@@ -22,7 +22,7 @@
 ---
 
 #### Things that could be implemented better:
-- api endpoints may be little bit confusing
+- api endpoints are little bit confusing
 - validation of existing courses is missing + some of the validations are insufficient
 - In the frontend layer, there are a lot of errors because of bad TypeScript configuration
 - Routing is poorly implemented
