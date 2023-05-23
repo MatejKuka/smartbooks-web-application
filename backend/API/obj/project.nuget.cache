@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEOqWIdoS7pUCyfgOjuKat3SdUU4m81vB7RVhl9WZBSozrSblkg1BTIhgMHLQTUlrbYs+m7K4SG7adnYHzQcBQ==",
+  "dgSpecHash": "GP9vGVgHBiUYfYhBJbsWYLIr5uvfgRAMImRfCtGrCfwHCe6e1QIr+7zqxU5jzXPS6e7UA4kOkxBiQEiZ8yXz3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

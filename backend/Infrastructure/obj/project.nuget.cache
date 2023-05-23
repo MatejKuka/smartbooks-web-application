@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxHgsZFVB4GXMWol3Wu5inZPOunLdcR+koj5+UKI/DrITwyQoV6F/0MAsUVMIhVuHxuBNLdRaO52byo6H/grsQ==",
+  "dgSpecHash": "F2JqAY0/UvR2OeVc67jrCljbS8gJ48PQl9lDvevDFqOfbPiWD9fjq/6gCrhupmXtf/xNWGPTL2CwQyajjdL+2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",

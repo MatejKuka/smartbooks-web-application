@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj": {
+    "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj"
+              "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -182,8 +182,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj"
+              "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj"
               }
             }
           }

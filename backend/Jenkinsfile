@@ -9,7 +9,9 @@ pipeline {
         stage("Build"){
             steps{
                 echo "Building"
-                sh "dotnet build"
+                dir("/API"){
+                    sh "dotnet build"
+                }
             }
         }
         stage("run k6 test"){

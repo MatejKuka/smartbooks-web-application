@@ -8,19 +8,27 @@
           "Microsoft.CSharp": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.1/AutoMapper.dll": {}
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/AutoMapper.dll": {}
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "FluentValidation/11.4.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/FluentValidation.dll": {}
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/FluentValidation.dll": {}
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
         }
       },
       "FluentValidation.DependencyInjectionExtensions/11.4.0": {
@@ -30,10 +38,14 @@
           "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
         },
         "compile": {
-          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -51,10 +63,14 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -63,10 +79,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -288,11 +308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -307,8 +327,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Documents\\OTHERS\\dotnet-smartbooks\\backend\\Domain\\Domain.csproj"
+            "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj"
             }
           }
         }
