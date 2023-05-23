@@ -11,5 +11,13 @@ pipeline {
                 echo "Building something"
             }
         }
+        stage("run k6 test"){
+                    steps{
+                        echo "K6 testing"
+                        dir("/__tests__"){
+                        sh "k6 run performance-test.js"
+                        }
+                    }
+                }
     }
 }
