@@ -13,7 +13,7 @@ pipeline {
             }
         }
 
-        stage("Updating Docker Image"){
+        stage("Updating Docker Image ."){
             steps{
                 dir("backend"){
                     echo "Updating Docker image"
@@ -21,15 +21,6 @@ pipeline {
                 }
             }
         }
-
-        stage("Updating Docker Image"){
-                    steps{
-                        dir("backend"){
-                            echo "Updating Docker image"
-                            sh "docker build -t smartbooks/matejkuka ."
-                        }
-                    }
-                }
         
         stage("k6 performance testing"){
              steps{
@@ -44,6 +35,5 @@ pipeline {
                 sh "docker container stop web-api"
             }
         }
-      
     }
 }
