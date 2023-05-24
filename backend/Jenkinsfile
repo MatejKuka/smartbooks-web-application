@@ -5,15 +5,16 @@ pipeline {
     pollSCM("* * * * *")
     }
 
-    stages {
-            stage("Check versions"){
-                steps{
-                    echo "Checking versions"
-                        sh "docker --version"
-                }
-            }
+
 
     stages {
+        stage("Check versions"){
+            steps{
+               echo "Checking versions"
+               sh "docker --version"
+            }
+        }
+
         stage("Build"){
             steps{
                 echo "Building"
