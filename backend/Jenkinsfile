@@ -6,6 +6,14 @@ pipeline {
     }
 
     stages {
+            stage("Check versions"){
+                steps{
+                    echo "Checking versions"
+                        sh "docker --version"
+                }
+            }
+
+    stages {
         stage("Build"){
             steps{
                 echo "Building"
@@ -16,6 +24,7 @@ pipeline {
         stage("k6 performance testing"){
              steps{
                 echo 'Installing k6'
+                sh "sudo -S "
                 sh 'sudo chmod +x setup_k6.sh'
                 sh 'sudo ./setup_k6.sh'
                 echo 'Running K6 performance tests...'
