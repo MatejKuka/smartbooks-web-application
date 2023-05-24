@@ -10,22 +10,26 @@ pipeline {
     stages {
         stage("Check versions"){
             steps{
-               echo "Checking versions"
+               echo "Checking Docker versions"
                sh "docker --version"
             }
         }
 
         stage("Build"){
             steps{
-                echo "Building"
-                    //sh "dotnet build"
+                dir("backend/API"){
+                    echo "Restoring dependencies"
+                    sh "dotnet restore"
+                    echo "Building"
+                    sh "dotnet build"
+                }
             }
         }
         
         stage("k6 performance testing"){
              steps{
                 echo "Starting Docker k6 image"
-                dir("tests"){
+                dir("backend/tests"){
                     sh "docker run --rm -i grafana/k6 run - <performance-test.js"
                 }
             }
