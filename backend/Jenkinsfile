@@ -25,7 +25,8 @@ pipeline {
         stage("k6 performance testing"){
              steps{
                 echo "Starting API container"
-                sh "docker run -i --rm --name web-api -p 8081:80 smartbooks/matejkuka"
+                sh "docker stop web-api"
+                sh "docker run -i -d --rm --name web-api -p 8081:80 smartbooks/matejkuka"
                 dir("backend/tests"){
                     echo "Starting K6 performance testing"
                     sh "docker run --rm -i grafana/k6 run - <performance-test.js"
