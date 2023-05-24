@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F2JqAY0/UvR2OeVc67jrCljbS8gJ48PQl9lDvevDFqOfbPiWD9fjq/6gCrhupmXtf/xNWGPTL2CwQyajjdL+2Q==",
+  "dgSpecHash": "fBLLvf1HiOjJ58YKa1psNiGQiLFQtI6KioBAlVw87wEseB5wOEXivl9+yM/aN8MoScHcJRpNCBngMYz0LJ0x2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -30,12 +30,8 @@
     "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -23,6 +23,13 @@ public class LessonController : ControllerBase
         return new JsonResult(_lessonService.GetAllLessonsByCourseId(idCourse));
     }
 
+    [HttpGet]
+        [Route("")]
+        public JsonResult TestMethod()
+        {
+            return new JsonResult("Hello");
+        }
+
     [HttpPost]
     [Route("lessons")]
     public JsonResult CreateLesson(PostLessonDTO lessonDto)

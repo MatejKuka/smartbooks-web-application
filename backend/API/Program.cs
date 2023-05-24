@@ -31,11 +31,6 @@ builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlite(
     "Data source=db.db"
 ));
 
-/*
-builder.Services.AddControllers().AddJsonOptions(x =>
-    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
-*/
-
 Application.DependencyResolver
     .DependencyResolverService
     .RegisterApplicationLayer(builder.Services);

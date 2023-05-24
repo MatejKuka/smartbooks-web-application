@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxZnpWR1fR4zJtmOGG+QpzAmyZCWhqOjR9x/C9C+m7jLN+Mw+5IpTsfzghIQaG9RC5Ie2UmYiUuSyOzL76rE6A==",
+  "dgSpecHash": "vEjwXfFwuqeZ5CA7laS17SX5Ddz3j35etfYUjrq/vMx7C/pYK5vY3AdiEr0pRJNOoTQusSJlSdPaqt1mEk5TZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\WebstormProjects\\smartbooks-web-application\\backend\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

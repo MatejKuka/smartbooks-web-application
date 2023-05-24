@@ -1,9 +1,7 @@
 ﻿FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
-#Bind the dotnet app to any port
-ENV DOTNET_URLS=http://+:5017
 WORKDIR /app
 EXPOSE 80
-EXPOSE 443
+
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
