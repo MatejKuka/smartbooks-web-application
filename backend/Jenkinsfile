@@ -18,18 +18,16 @@ pipeline {
         stage("Build"){
             steps{
                 echo "Building"
-                    sh "dotnet build"
+                    //sh "dotnet build"
             }
         }
         
         stage("k6 performance testing"){
              steps{
-                echo 'Installing k6'
-                sh "sudo -S "
-                sh 'sudo chmod +x setup_k6.sh'
-                sh 'sudo ./setup_k6.sh'
-                echo 'Running K6 performance tests...'
-                sh 'k6 run tests/performance-test.js'
+                echo "Starting Docker k6 image"
+                dir("tests"){
+                    sh "docker run --rm -i grafana/k6 run - <performance-test.js"
+                }
             }
         }
       
