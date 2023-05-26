@@ -13,14 +13,22 @@ pipeline {
             }
         }
 
-        stage("Updating Docker Image ."){
+        stage("Updating Docker Images"){
             steps{
                 dir("backend"){
-                    echo "Updating Docker image"
+                    echo "Updating Build image"
                     sh "docker build -t smartbooks/matejkuka ."
+                    echo "Updating Testing image"
+                     sh "docker build -f UnitTests/Dockerfile -t smartbooks-unit-tests/matejkuka ."
                 }
             }
         }
+        stage("Unit testing"){
+                     steps{
+                        echo "Starting Unit testing container"
+                        sh "docker run --rm smartbooks-unit-tests/matejkuka"
+                    }
+                }
         
         stage("k6 performance testing"){
              steps{
@@ -35,5 +43,6 @@ pipeline {
                 sh "docker container stop web-api"
             }
         }
+       
     }
 }
