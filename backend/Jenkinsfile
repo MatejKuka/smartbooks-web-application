@@ -16,7 +16,7 @@ pipeline {
         stage("Updating Docker Images"){
             steps{
                 dir("backend"){
-                    echo "Updating Build image"
+                    echo "Updating Build imaged"
                     sh "docker build -t smartbooks/matejkuka ."
                     echo "Updating Testing image"
                      sh "docker build -f UnitTests/Dockerfile -t smartbooks-unit-tests/matejkuka ."
