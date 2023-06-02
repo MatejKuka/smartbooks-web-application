@@ -48,6 +48,9 @@ pipeline {
                      steps{
                         dir("backend"){
                             echo "Starting K6 performance testing"
+                            sh "heroku login -i "
+                            sh "matokuka66@gmail.com"
+                            sh "password123456dd"
                             sh "heroku container:login"
                             sh "heroku container:push web"
                             sh "heroku container:release web"
